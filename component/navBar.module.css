@@ -1,0 +1,7 @@
+.color {
+  color: aqua;
+}
+.toRow {
+  display: flex;
+  flex-direction: row;
+}
